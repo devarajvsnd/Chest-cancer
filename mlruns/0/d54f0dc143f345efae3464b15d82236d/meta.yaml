@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d54f0dc143f345efae3464b15d82236d/artifacts
+end_time: 1709119321137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54f0dc143f345efae3464b15d82236d
+run_name: funny-hound-193
+run_uuid: d54f0dc143f345efae3464b15d82236d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709119303417
+status: 4
+tags: []
+user_id: Devaraj
